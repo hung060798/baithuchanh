@@ -1,0 +1,10 @@
+Model/Product.java
+ Model.Product
+Dao/ManagerProduct.java
+ Dao.ManagerProduct
+Service/ProductService.java
+ Service.ProductService
+Dao/ConnectMysql.java
+ Dao.ConnectMysql
+Controller/ProductServlet.java
+ Controller.ProductServlet
